@@ -1,0 +1,1 @@
+printf("Time taken is %f seconds.\n",((double) (end - start)) / CLOCKS_PER_SEC);
